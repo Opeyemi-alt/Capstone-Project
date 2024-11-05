@@ -146,6 +146,8 @@ This is where Basic lines of codes or queries are included during my analysis
 ````
 
 ### Data Visualization
+<img width="713" alt="Total sales capstone" src="https://github.com/user-attachments/assets/7f56bd85-af8c-401d-85ec-0d9a781113dd">
+<img width="891" alt="Tables in sales data capstone" src="https://github.com/user-attachments/assets/68bf82f6-9e60-41ae-b499-6c8144e6e753">
 
 
 ### Project Status:
