@@ -147,10 +147,14 @@ This is where Basic lines of codes or queries are included during my analysis
 
 ### Data Visualization
 <img width="713" alt="Total sales capstone" src="https://github.com/user-attachments/assets/7f56bd85-af8c-401d-85ec-0d9a781113dd">
-<img width="891" alt="Tables in sales data capstone" src="https://github.com/user-attachments/assets/68bf82f6-9e60-41ae-b499-6c8144e6e753">
-![WhatsApp Image 2024-11-05 at 12 46 02_32c8c921](https://github.com/user-attachments/assets/79245f4b-b165-4fd4-9008-7f61ea714d4f)
 
-![WhatsApp Image 2024-11-05 at 12 53 11_25ce1457](https://github.com/user-attachments/assets/912ff572-b3de-48b6-aadc-bb1df3324c86)
+<img width="891" alt="Tables in sales data capstone" src="https://github.com/user-attachments/assets/68bf82f6-9e60-41ae-b499-6c8144e6e753">
+
+![WhatsApp Image 2024-11-05 at 12 46 02_dfa7c416](https://github.com/user-attachments/assets/2484852f-f16f-4ab4-ac3a-3bded29a80c7)
+
+
+
+![WhatsApp Image 2024-11-05 at 12 53 11_85a2ac37](https://github.com/user-attachments/assets/d27afb0b-39d6-4493-8533-b4313a2e5553)
 
 ### Project Status:
    In Progress
