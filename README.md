@@ -5,6 +5,17 @@ This is where My Capstone projects are documented  while learning Data Analysis 
 ---
 Sales Performance Analysis for Retail Store
 
+[Project Objective](#project-Objective)
+[Project Scope](#project-scope)
+[Key Performance Indicators (KPIs)](#key-ierformance-Indicators-(KPIs))
+[Data Sources](data-sources)
+[Tools and Technologies](#tools-and-technologies)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+[Project Status](#project-status)
+
+
 ### Project Objective
 ---
 To design and develop a comprehensive sales performance analysis dashboard using Excel, SQL, and Power BI, providing actionable insights into top-selling products, regional performance, and monthly sales trends for a retail store.
@@ -51,7 +62,8 @@ To design and develop a comprehensive sales performance analysis dashboard using
 ---
  The following actions were performed at the inital Phase;
  1) Data loading and Inspection
- 2) Handling 
+ 2) Handling missing variables
+ 3) Data cleaning and formatting
 
 
 ###  Project Deliverables:
@@ -130,28 +142,6 @@ This is where Basic lines of codes or queries are included during my analysis
 
 ### Project Status:
    In Progress
-
-
-
-
-Project Title: 
-Project Objective:
-Project Scope:
-Key Performance Indicators (KPIs):
-Data Sources:
-Tools and Technologies:
-Data Cleaning and Preparations
-Project Deliverables:
-Timeline:
-Assumptions and Dependencies:
-Project Benefits:
-Project Risks:
-Dashboard Components:
-Target Audience:
-Data Analysis
-Data Visualization
-Security and Access:
-Project Status:
 
 
 
