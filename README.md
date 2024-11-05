@@ -134,13 +134,78 @@ To design and develop a comprehensive sales performance analysis dashboard using
 ---
 This is where Basic lines of codes or queries are included during my analysis
 ```Excel
+Average sales
+=AVERAGEIF(C2:C50001,C2,H2:H50001)
 
-
+Total Revenue by region
+=SUMIFS(H2:H50001,D2:D50001,D2)
 
 ```
 ```SQL
+----------CAPSTONE PROJECT-------
+SELECT*FROM[dbo].[capstone new]
+
+----TOTAL SALES FOR EACH PRODUCT CATEGORY-------
+
+SELECT PRODUCT,SUM(Total_Sales)as TotalSales 
+From [dbo].[capstone new]
+GROUP BY PRODUCT
+order by TotalSales DESC;
+
+------NUMBER OF SALES OF TRANSACTION IN EACH REGION----
+SELECT Region,COUNT(OrderId) AS NumberOfSalesTransactions
+FROM [dbo].[capstone new]
+GROUP BY Region
+ORDER BY NumberOfSalesTransactions DESC;
+
+-----HIGHEST SELLING PRODUCT BY TOTAL SALES-----
+
+SELECT TOP 1 PRODUCT,SUM(Total_Sales)as TotalSales 
+From [dbo].[capstone new]
+GROUP BY PRODUCT
+order by TotalSales DESC;
+
+-----TOTAL REVENUE PER PRODUCT----
+
+SELECT PRODUCT,SUM(Total_Sales)as TotalRevenue 
+From [dbo].[capstone new]
+GROUP BY PRODUCT
+order by TotalRevenue DESC;
+
+----Total Monthly Sales For Current Year-----
+
+SELECT MONTH(OrderDate)as SalesMonth,
+SUM(Total_Sales)as TotalMonthlySales 
+From [dbo].[capstone new]
+WHERE YEAR(OrderDate)=YEAR(OrderDate)
+GROUP BY MONTH(OrderDate)
+order by SalesMonth DESC;
 
 
+-----Top 5 Customers by total purchase amount-----
+
+SELECT TOP 5 Customer_Id,SUM(Total_Sales)as TotalPurchaseAmount 
+From [dbo].[capstone new]
+GROUP BY Customer_Id
+order by TotalPurchaseAmount DESC;
+
+
+------Percentage of total sales contributed by each Region---
+
+SELECT
+Region,SUM(Total_Sales)  RegionalSales,
+CAST((SUM(Total_Sales)*1.0/(SELECT SUM(Total_Sales)FROM [dbo].[capstone new])) * 100 as DECIMAL(10,2)) PercentageOfTotalSales
+FROM [dbo].[capstone new]
+GROUP BY Region
+ORDER BY RegionalSales DESC;
+
+----Products With no Sales in the last quater----
+
+SELECT Product,OrderID 
+From Product
+WHERE OrderID NOT IN(
+SELECT OrderID FROM[dbo].[capstone new]
+WHERE OrderDate>=DATEADD(QUARTER,-1,GETDATE()));
 ````
 
 ### Data Visualization
