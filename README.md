@@ -6,13 +6,21 @@ This is where My Capstone projects are documented  while learning Data Analysis 
 Sales Performance Analysis for Retail Store
 
 [Project Objective](#project-Objective)
+
 [Project Scope](#project-scope)
+
 [Key Performance Indicators (KPIs)](#key-ierformance-Indicators-(KPIs))
+
 [Data Sources](data-sources)
+
 [Tools and Technologies](#tools-and-technologies)
+
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
 [Data Analysis](#data-analysis)
+
 [Data Visualization](#data-visualization)
+
 [Project Status](#project-status)
 
 
