@@ -1,16 +1,16 @@
 # Capstone-Project
 This is where My Capstone projects are documented  while learning Data Analysis with the Incubator Hub
 
-## Project Title
+### Project Title
 ---
 Sales Performance Analysis for Retail Store
 
-## Project Objective
+### Project Objective
 ---
 To design and develop a comprehensive sales performance analysis dashboard using Excel, SQL, and Power BI, providing actionable insights into top-selling products, regional performance, and monthly sales trends for a retail store.
 
 
-## Project Scope:
+### Project Scope:
 ---
 1. Data Collection: Extract sales data from the retail store's database using SQL.
 
@@ -25,7 +25,7 @@ To design and develop a comprehensive sales performance analysis dashboard using
 3. Data Visualization: Create interactive dashboards using Power BI to visualize sales performance.
 
 
-## Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 ---
 1. Sales Revenue
 2. Sales Growth Rate
@@ -36,11 +36,11 @@ To design and develop a comprehensive sales performance analysis dashboard using
 7. Customer Retention Rate
 8. Average Transaction Value (ATV)
 
-## Data Sources:
+### Data Sources:
 ---
 1. Sales Database (Excel)
 
-## Tools and Technologies:
+### Tools and Technologies:
 ---
 1. Excel (Data Analysis, Pivot Tables, Charts)
 2. SQL (Data Extraction, Querying)
@@ -54,7 +54,7 @@ To design and develop a comprehensive sales performance analysis dashboard using
  2) Handling 
 
 
-## Project Deliverables:
+###  Project Deliverables:
 ---
 1. Sales Performance Dashboard (Power BI)
   
@@ -63,20 +63,20 @@ To design and develop a comprehensive sales performance analysis dashboard using
 3. SQL Queries for Data Extraction
    
 
-## Timeline:
+### Timeline:
 ---
 1. Data Collection and Analysis (available)
 2. Dashboard Creation (few days)
 3. Testing and Validation (few days)
 5. Project Completion (ongoing)
 
-## Assumptions and Dependencies:
+### Assumptions and Dependencies:
 ---
 1. Access to retail store's database and IT infrastructure.
 2. Availability of necessary tools and software.
 
 
-## Project Benefits:
+### Project Benefits:
 ---
 1. Data-driven sales strategies.
 2. Improved product inventory management.
@@ -84,13 +84,13 @@ To design and develop a comprehensive sales performance analysis dashboard using
 4. Increased customer retention.
 
 
-## Project Risks:
+### Project Risks:
 ---
 1. Data quality issues.
 2. Technical difficulties with tool integration.
 3. Stakeholder communication challenges.
 
-## Dashboard Components:
+### Dashboard Components:
 ---
 1. Top-Selling Products by Category
 2. Regional Sales Performance Map
@@ -99,14 +99,14 @@ To design and develop a comprehensive sales performance analysis dashboard using
 5. Customer Retention Rate Gauge
 6. Average Transaction Value (ATV) Metric
 
-## Target Audience:
+### Target Audience:
 ---
 1. Retail Store Management
 2. Sales and Marketing Teams
 3. Product Managers
 4. Operations Manager
 
-## Security and Access:
+### Security and Access:
 ---
 1. Role-based access control
 2. Data encryption
@@ -124,41 +124,34 @@ This is where Basic lines of codes or queries are included during my analysis
 
 
 ````
-## Project Status:
+
+### Data Visualization
+
+
+### Project Status:
    In Progress
 
 
 
 
 Project Title: 
-
 Project Objective:
-
 Project Scope:
-
 Key Performance Indicators (KPIs):
-
 Data Sources:
-
 Tools and Technologies:
-
+Data Cleaning and Preparations
 Project Deliverables:
-
 Timeline:
-
 Assumptions and Dependencies:
-
 Project Benefits:
-
 Project Risks:
-
-Project Status:
-
 Dashboard Components:
-
 Target Audience:
-
+Data Analysis
+Data Visualization
 Security and Access:
+Project Status:
 
 
 
