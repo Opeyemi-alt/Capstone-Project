@@ -52,8 +52,6 @@ To design and develop a comprehensive sales performance analysis dashboard using
 4. Regional Sales Performance
 5. Monthly Sales Trends
 6. Product Category Sales
-7. Customer Retention Rate
-8. Average Transaction Value (ATV)
 
 ### Data Sources:
 ---
